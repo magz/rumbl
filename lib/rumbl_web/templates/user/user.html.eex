@@ -1,0 +1,6 @@
+<div>
+    first_name: <%= first_name(@user) %>
+    </br>
+    last_name: <%= last_name(@user) %>
+    </br>
+</div>
